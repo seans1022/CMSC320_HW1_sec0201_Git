@@ -6,3 +6,11 @@ Q2: What field could data science be applied to? Give an Example.
 
 Answer: One field that data science can be applied to is Bioinformatics
 q2
+
+Q3: What is the difference between Merging and Rebasing?
+
+Answer: Merging is the act of combining two different files and keeping their shared history while rebasing is when you replace one with the other and its entire history
+
+Q4: What are you looking forward to this semester?
+
+Answer: I am looking forward to learning all about data science and its many applications. I also enjoy applied statistics and want to see how it affects data science
