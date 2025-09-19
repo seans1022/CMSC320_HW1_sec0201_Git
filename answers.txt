@@ -1,16 +1,16 @@
 Q1: Why might we consider using Git?
 
-Answer: We may consider using git becuase it allows for easy version control and collaboration
+Answer: One reason we may consider git is to allow for easy version control of our project, it allows us to go back and forth in time. We can see who did what, and if we screw up the code, we can go back in time and continue from when the code worked. The other major reason is it allows for increased collaboration. It is the easiest way to take on a project as a group.
 
 Q2: What field could data science be applied to? Give an Example.
 
-Answer: One field that data science can be applied to is Bioinformatics
+Answer: One field that data science can be applied to is biology. For example, there are things like protein structure which is much easier to do when you need to figure out how proteins fold. It can also help with treatments because if you have past data on customers, you can use that to help treat your current customers.
 q2
 
 Q3: What is the difference between Merging and Rebasing?
 
-Answer: Merging is the act of combining two different files and keeping their shared history while rebasing is when you replace one with the other and its entire history
+Answer: Merging is the act of combining two different files and keeping their shared history while rebasing is when you replace one with the other and its entire history. If you merge, there is no data loss, while if you rebase, there may be loss with rebasing since it gets rid of ones entire history. You may use merging when working on bigger projects to make sure you have everything, while rebasing may be useful if you are working on your own projects and are trying to control your commmit history when info is no longer needed.
 
 Q4: What are you looking forward to this semester?
 
-Answer: I am looking forward to learning all about data science and its many applications. I also enjoy applied statistics and want to see how it affects data science
+Answer: I am looking forward to learning all about data science and its many applications. I also enjoy applied statistics and want to see how it affects data science. I want to learn about how this can be applied to the many different fields so computer science has more applicability. I also want to learn these tools for future projects and internships.
